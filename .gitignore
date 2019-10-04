@@ -84,10 +84,10 @@ celerybeat-schedule
 # Environments
 .env
 .venv
+myvenv/
 env/
 venv/
 ENV/
-myvenv/
 env.bak/
 venv.bak/
 
@@ -103,3 +103,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Visual Studio Code Project Folder
+/.vscode
+.vscode
+
+# IntelliJ IDEA Project Folder
+/.idea
+.idea
